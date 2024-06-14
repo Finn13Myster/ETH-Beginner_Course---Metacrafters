@@ -20,6 +20,3 @@ Burns tokens by decreasing the total supply and debiting the specified address, 
 1. **Deploy the contract**: Use Remix IDE or any Ethereum development environment to deploy the `MyToken` contract.
 2. **Mint Tokens**: Call the `mint` function with the desired address and amount to mint new tokens.
 3. **Burn Tokens**: Call the `burn` function with the desired address and amount to burn tokens, ensuring the address has enough balance.
-
-## License
-This project is licensed under the MIT License.
